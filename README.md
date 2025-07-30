@@ -1,6 +1,6 @@
 Hi there, I'm Muhammed Safwan 👋
 
-I'm a former IT Support Specialist transforming my 7+ years of hands-on infrastructure experience into a career in DevOps and Cloud Engineering. I am passionate about solving real-world operational problems by building robust, automated systems.
+I'm a former IT Systems Engineer/IT Technical Assistant transforming my 7+ years of hands-on infrastructure experience into a career in DevOps and Cloud Engineering. I am passionate about solving real-world operational problems by building robust, automated systems.
 
 🔭 I’m currently building an automated server health monitoring tool in Bash to automate tasks I used to do manually.
 
