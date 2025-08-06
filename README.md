@@ -37,7 +37,7 @@ I'm an IT Operations professional with 7+ years of experience, now transitioning
       <h3 align="center">⌚ ChronoCraft E-commerce Deployment</h3>
       <p align="center">
         <a href="https://github.com/safwanksd/chronocraft-ecommerce">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=safwanksd&repo=chronocraft&theme=radical&show_owner=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=safwanksd&repo=chronocraft-ecommerce&theme=radical&show_owner=true" />
         </a>
       </p>
       <p>Managed the end-to-end deployment of a full-stack e-commerce app on AWS EC2. Configured Nginx as a reverse proxy and used PM2 for process management to ensure high availability.</p>
