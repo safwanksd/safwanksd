@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/safwan-ksd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="https://safwantech.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
