@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I'm an IT Operations professional with 7+ years of experience, now transitioning my skills into the world of **DevOps and Cloud Engineering**. I'm passionate about building the automated, reliable systems that great software is built on.
+I'm an IT Operations professional with 7+ years of experience, now transitioning my skills into the world of **DevOps and Cloud Engineering**. My journey through full-stack development gives me a unique perspective, allowing me to bridge the gap between development and operations. I'm passionate about building the automated, reliable systems that great software is built on.
 
 - 🔭 I’m currently focused on Infrastructure as Code with **Terraform** and containerization with **Docker**.
 - 🌱 I love turning the manual operational problems I've solved for years into automated scripts and solutions.
@@ -23,7 +23,7 @@ I'm an IT Operations professional with 7+ years of experience, now transitioning
 | :--- | :--- | :--- | :--- |
 | AWS (EC2, S3) | **Bash Scripting** | Node.js, Express.js | **Linux (Ubuntu)** |
 | Nginx | **Git & GitHub** | MongoDB | Networking (TCP/IP, DNS) |
-| Docker (Learning) | `cron` | JavaScript | System Administration |
+| Docker (Learning) | `cron` | JavaScript, EJS, HTML/CSS | System Administration |
 | Terraform (Learning) | CI/CD Concepts | | Backup & Recovery |
 
 ---
@@ -67,6 +67,6 @@ I'm an IT Operations professional with 7+ years of experience, now transitioning
 
 I'm always open to connecting with other professionals and enthusiasts in the tech space.
 
-- **Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)
+- **Portfolio:** [safwantech.site](https://safwantech.site)
 - **LinkedIn:** [linkedin.com/in/safwan-ksd](https://www.linkedin.com/in/safwan-ksd)
 - **Email:** safwan.s27@gmail.com
