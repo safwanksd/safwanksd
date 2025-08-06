@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/safwan-ksd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
+  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Website"/>
+  </a>
 </p>
 
 I'm an IT Operations professional with 7+ years of experience, now transitioning my skills into the world of **DevOps and Cloud Engineering**. I'm passionate about building the automated, reliable systems that great software is built on.
@@ -64,5 +67,6 @@ I'm an IT Operations professional with 7+ years of experience, now transitioning
 
 I'm always open to connecting with other professionals and enthusiasts in the tech space.
 
-- **Email:** safwan.s27@gmail.com
+- **Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)
 - **LinkedIn:** [linkedin.com/in/safwan-ksd](https://www.linkedin.com/in/safwan-ksd)
+- **Email:** safwan.s27@gmail.com
