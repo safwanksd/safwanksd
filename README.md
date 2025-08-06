@@ -36,7 +36,7 @@ I'm an IT Operations professional with 7+ years of experience, now transitioning
     <td width="50%" valign="top">
       <h3 align="center">⌚ ChronoCraft E-commerce Deployment</h3>
       <p align="center">
-        <a href="https://github.com/safwanksd/chronocraft">
+        <a href="https://github.com/safwanksd/chronocraft-ecommerce">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=safwanksd&repo=chronocraft&theme=radical&show_owner=true" />
         </a>
       </p>
