@@ -67,10 +67,10 @@ Backup & Recovery
 <p>An automated Bash script that monitors server vitals (CPU, Memory, Disk) and sends instant push notifications via ntfy.sh if thresholds are breached. A practical solution to automate real-world sysadmin tasks.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">⌚ ChronoCraft E-commerce Deployment</h3>
+<h3 align="center">⌚ ChronoCraft E-commerce Platform</h3>
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/safwanksd/chronocraft">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dsafwanksd%26repo%3Dchronocraft%26theme%3Dradical%26show_owner%3Dtrue" />
+<a href="https://www.google.com/search?q=https://github.com/safwanksd/chronocraft-ecommerce">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dsafwanksd%26repo%3Dchronocraft-ecommerce%26theme%3Dradical%26show_owner%3Dtrue" />
 </a>
 </p>
 <p>Managed the end-to-end deployment of a full-stack e-commerce app on AWS EC2. Configured Nginx as a reverse proxy and used PM2 for process management to ensure high availability.</p>
